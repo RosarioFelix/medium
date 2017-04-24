@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+}
+.header {
+  width: 100%;
+  height: 80px;
+}
+.cont-header {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  position: relative;
+}
+.medium {
+  height: 55px;
+  width: 300px;
+  display: inline-flex;
+  position: absolute;
+  left: 80px;
+  top:20px;
+  cursor: pointer;
+}
+.img-logo {
+  width: 50px;
+  height: 50px;
+  display: inline-flex;
+}
+.raya{
+font-size: 30px;
+margin-top: 10px;
+  margin-left: 10px;
+}
+.img-foto {
+  width: 80px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 20px;
+  display: inline-flex;
+}
